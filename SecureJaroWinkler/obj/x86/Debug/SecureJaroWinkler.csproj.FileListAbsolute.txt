@@ -1,0 +1,12 @@
+c:\users\aaron\documents\visual studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\bin\Debug\SecureJaroWinkler.exe
+c:\users\aaron\documents\visual studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\bin\Debug\SecureJaroWinkler.pdb
+c:\users\aaron\documents\visual studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aaron\documents\visual studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\obj\x86\Debug\SecureJaroWinkler.exe
+c:\users\aaron\documents\visual studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\obj\x86\Debug\SecureJaroWinkler.pdb
+C:\Users\Aaron\Documents\Visual Studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\bin\Debug\SecureJaroWinkler.exe.config
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\bin\Debug\SecureJaroWinkler.exe.config
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\obj\x86\Debug\SecureJaroWinkler.exe
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\obj\x86\Debug\SecureJaroWinkler.pdb
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\bin\Debug\SecureJaroWinkler.exe
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\bin\Debug\SecureJaroWinkler.pdb
+C:\Users\aschroed\Documents\Visual Studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\obj\x86\Debug\ResolveAssemblyReference.cache

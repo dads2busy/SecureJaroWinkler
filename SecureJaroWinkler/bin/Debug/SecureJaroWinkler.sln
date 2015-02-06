@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "SecureJaroWinkler", "SecureJaroWinkler.exe", "{8C8F65F0-7CF2-4AE6-AEF4-BE187842B88C}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Aaron\Documents\Visual Studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\bin\Debug\SecureJaroWinkler.exe
+		RemoteMachine = AARON-PC
+		StartingDirectory = C:\Users\Aaron\Documents\Visual Studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C8F65F0-7CF2-4AE6-AEF4-BE187842B88C}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

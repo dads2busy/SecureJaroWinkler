@@ -1,0 +1,5 @@
+c:\users\aaron\documents\visual studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\bin\Debug\SecureJaroWinkler.exe
+c:\users\aaron\documents\visual studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\bin\Debug\SecureJaroWinkler.pdb
+c:\users\aaron\documents\visual studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aaron\documents\visual studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\obj\x86\Debug\SecureJaroWinkler.exe
+c:\users\aaron\documents\visual studio 2010\Projects\SecureJaroWinkler\SecureJaroWinkler\obj\x86\Debug\SecureJaroWinkler.pdb
